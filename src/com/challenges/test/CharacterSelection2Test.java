@@ -1,0 +1,14 @@
+package com.challenges.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CharacterSelection2Test {
+
+  @Test
+  public void test() {
+    fail("Not yet implemented");
+  }
+
+}
